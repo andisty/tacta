@@ -1,4 +1,4 @@
-
+require './contacts_file'
 require 'json'
 
 def read_contacts
